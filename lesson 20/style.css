@@ -1,0 +1,105 @@
+.text-danger{
+    background-color: rebeccapurple;
+}
+
+ul{
+    list-style: none;
+}
+
+.container{
+    /* align-items: center; */
+}
+
+.navbar__menu{
+    display: flex;
+}
+.navbar__list{
+    display: flex;
+}
+
+.navbar__menu__list{
+    display: flex;
+    gap: 0em;
+}
+
+.menu__icon{
+    display: none;
+}
+
+.header__title__text{
+    font-size: 78px;
+}
+
+.header__title__button{
+    
+    color: white;
+}
+.header__image{
+    /* display: flex;
+    justify-content: flex-end; */
+    /* margin-left: 100px; */
+}
+.header__image img{
+    width: 100%;
+}
+@media only screen and (max-width:576px) {
+    .navbar_menu{
+        display: none;
+    }
+    
+}
+@media only screen and (max-width:992px) {
+    .header__title__text{
+        font-size: 50px;
+    }
+    }
+
+    @media only screen and (max-width:768px) {
+        
+        .header{
+            background-image: url("./banner-image.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 200vh;
+        }
+        .header__title__text{
+            margin-top: 50px;
+            /* width: 100%; */
+            font-size: 70px;
+        /* text-align: center; */
+        }
+        .header__image{
+            display: none;
+        }
+
+        .header__title__button{
+            width: 45%;
+            color: white;
+            height: 60px;
+        }
+        }
+        @media only screen and (max-width:500px) {
+        
+            .header{
+                background-image: url("./banner-image.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 200vh;
+            }
+            .header__title__text{
+                margin-top: 50px;
+                /* width: 100%; */
+                font-size: 50px;
+            /* text-align: center; */
+            }
+            .header__image{
+                display: none;
+            }
+    
+            .header__title__button{
+                width: 45%;
+                color: white;
+                height: 50px;
+            }
+            }
+        
