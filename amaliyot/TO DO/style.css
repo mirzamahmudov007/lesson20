@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 24px;
+}
+
+h1 {
+  font-size: 48px;
+  text-align: center;
+  margin: 40px;
+}
+.wrappper {
+  width: 80%;
+  margin: auto;
+  height: 60px;
+  display: flex;
+  justify-content: stretch;
+}
+
+.wrappper .input {
+  width: 85%;
+  padding: 10px;
+}
+.wrappper .addBtn {
+  width: 15%;
+}
+
+.list {
+  width: 100%;
+}
+.list li {
+  width: 80%;
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid red;
+  padding: 10px 10px;
+}
+
+.checkbox {
+  width: 30px;
+  height: 30px;
+}
+.addBtn {
+  background-color: red;
+  border: none;
+  cursor: pointer;
+}

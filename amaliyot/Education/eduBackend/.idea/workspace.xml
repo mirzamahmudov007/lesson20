@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b474104-e233-4d3a-aaf2-81789fa87c21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../EDU UZ/backend/edu/.jpb/jpb-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EDU UZ/backend/edu/src/main/java/uz/edu/EduApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EDU UZ/backend/edu/src/main/java/uz/edu/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EDU UZ/backend/edu/src/main/java/uz/edu/entity/Filial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EDU UZ/backend/edu/src/main/java/uz/edu/entity/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EDU UZ/backend/edu/src/main/java/uz/edu/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EDU UZ/backend/edu/src/main/java/uz/edu/repo/CourseRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EDU UZ/backend/edu/src/main/java/uz/edu/repo/FilialRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EDU UZ/backend/edu/src/main/java/uz/edu/service/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EDU UZ/backend/edu/src/main/java/uz/edu/service/FilialService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EDU UZ/backend/edu/src/main/java/uz/edu/web/CourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EDU UZ/backend/edu/src/main/java/uz/edu/web/FilialController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1000_F_260170121_6qfqVytkKR2huAscW7nCUY73D57JsfKp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1701250975.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdobeStock_260170121_Preview.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Azamatjon - Chrome.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cisco Packet Tracer Student.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend project.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HaoZip.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Itanium 2 is a 64.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kiberjinoyatchilik va uning tarqalish sabablari.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mamayoqubova Sevara/Step_by_Step_Process_Chart_Visual_Charts_Presentation_in_Blue_Black.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mamayoqubova Sevara/Tabdil.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OlmosITschool" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PixelSee.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PixelSee_id4652472id.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Postman Agent.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../Postman Agent.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PotPlayer 64 bit.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/.idea/Project in Ramazon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/111" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/Azizbek aka/markets-bot-backand" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/demo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/demo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/demo/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/demo/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/demo/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/project_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/project_1/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/project_1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/project_1/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/project_1/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/project_1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/project_1/src/main/java/uz/gayratjon/project_1/Project1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/project_1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/project_1/src/test/java/uz/gayratjon/project_1/Project1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/spring-blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/src/main/img/MyImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/src/main/img/WIN_20230124_12_27_26_Pro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/src/main/img/test.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/src/main/img/test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/src/main/java/org/example/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/src/main/resources/Bobur.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/target/classes/Bobur.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project in Ramazon/untitled/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PuTTY.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/demo/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/demo/src/main/java/com/example/demo/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/demo/src/main/java/com/example/demo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/demo/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/src/main/java/uz/gayratjon/firstproject/FirstProjectApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/src/main/java/uz/gayratjon/firstproject/controller/TaskController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/src/main/java/uz/gayratjon/firstproject/dto/TaskDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/src/main/java/uz/gayratjon/firstproject/entity/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/src/main/java/uz/gayratjon/firstproject/repository/TaskRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/src/main/java/uz/gayratjon/firstproject/service/TaskService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/src/main/java/uz/gayratjon/firstproject/service/imp/TaskServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/first-project/src/test/java/uz/gayratjon/firstproject/FirstProjectApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/herokuTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring boot/untitled" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sultonov Husanboy.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sultonov Husanboy/Husanboy.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sultonov Husanboy/hhhhhhh.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sultonov Husanboy/khusanboy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Telegram.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSDC Free Video Editor.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fronted/lesson1/index.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/banner-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/css/scss/abstract/_mixin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/css/scss/abstract/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/css/scss/base/_base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/css/scss/base/tygography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/css/scss/layout/_main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/css/scss/layout/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/css/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/icons8-menu.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/inedex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/main-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 20/user.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2cnvYr6Gb1seXyn5sm42LPJJlhs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b474104-e233-4d3a-aaf2-81789fa87c21" name="Changes" comment="" />
+      <created>1708760212142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708760212142</updated>
+      <workItem from="1708760213197" duration="117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

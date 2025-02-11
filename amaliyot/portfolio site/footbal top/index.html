@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divni sichqoncha orqali olib kelish</title>
+    <style>
+        body {
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        #targetDiv {
+            width: 100px;
+            height: 100px;
+            background-color: lightblue;
+        }
+    </style>
+</head>
+<body onclick="moveDiv(event)">
+    <div id="targetDiv"></div>
+
+    <script>
+        function moveDiv(event) {
+            var div = document.getElementById('targetDiv');
+            var mouseX = event.clientX;
+            var mouseY = event.clientY;
+
+            div.style.marginLeft= mouseX - 50 + 'px'; // 50 - divning o'lchami / 2
+            div.style.marginTop = mouseY - 50 + 'px';  // 50 - divning o'lchami / 2
+        }
+    </script>
+</body>
+</html>

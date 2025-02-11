@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <main>
+      <div class="form">
+        <input id="name" type="text" placeholder="name" />
+        <input id="raiting" type="text" placeholder="raiting" />
+        <select name="" id="janr">
+          <option value="all">All</option>
+          <option value="Adventure">Adventure</option>
+          <option value="Animation">Animation</option>
+          <option value="Comedy">Comedy</option>
+          <option value="Family">Family</option>
+          <option value="Fantasy">Fantasy</option>
+          <option value="Action">Action</option>
+          <option value="History">History</option>
+          <option value="War">War</option>
+        </select>
+        <select name="" id="sort">
+          <option value="byr">BY Raiting</option>
+          <option value="byrr">BY Raiting (revers)</option>
+          <option value="byy">BY Year</option>
+          <option value="byyr">BY Year (revers)</option>
+        </select>
+
+        <button id="btn">Search</button>
+      </div>
+      <div class="content"></div>
+    </main>
+    <script src="./main.js"></script>
+  </body>
+</html>

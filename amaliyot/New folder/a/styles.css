@@ -1,0 +1,7 @@
+body {
+  width: 100%;
+}
+.show {
+  transition: 2s all;
+  transform: translateX(100%);
+}

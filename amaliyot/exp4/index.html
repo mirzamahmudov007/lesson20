@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Imtihon</title>
+  </head>
+  <body>
+    <div class="w-100 row justify-content-around">
+      <div class="menu col-3 position-fixed start-0 top-0">
+        <h3 class="w-100 ms-2 mb-3 mt-3">
+          <img
+            src="./img/setting 1.png"
+            class="me-2"
+            width="30"
+            alt=""
+          />Dashboard
+        </h3>
+        <div class="ms-3">
+          <p class="fs-6 p-3 w-75 rounded rounded-5">
+            <img
+              src="./img/icon _ 24 _ outline _ key-square.png"
+              width="25"
+              class="me-3"
+              alt=""
+            />Dashboard
+          </p>
+          <p class="fs-6 p-3 w-75 rounded rounded-5">
+            <img
+              src="./img/3d-square 1.png"
+              class="me-3"
+              width="25"
+              alt=""
+            />Our Cource
+          </p>
+          <p class="fs-6 bg-primary p-3 w-75 rounded rounded-4">
+            <img
+              src="./img/Vector.png"
+              class="me-3"
+              width="25"
+              alt=""
+            />Students
+          </p>
+          <p class="fs-6 p-3 w-75 rounded rounded-5">
+            <img
+              src="./img/wallet-money 2.png"
+              class="me-3"
+              width="25"
+              alt=""
+            />Online courses
+          </p>
+          <p class="fs-6 p-3 w-75 rounded rounded-5">
+            <img src="./img/111.png" class="me-3" width="25" alt="" />Takliflar
+          </p>
+          <p class="fs-6 p-3 w-75 rounded rounded-5">
+            <img
+              src="./img/message-question 1.png"
+              class="me-3"
+              width="25"
+              alt=""
+            />Contact
+          </p>
+        </div>
+      </div>
+      <div class="col-9 mt-3 position-absolute end-0 top-0 me-3">
+        <div class="d-flex justify-content-between mb-5">
+          <h3>Soff Study</h3>
+          <input type="text" class="form-control w-25" placeholder="search" />
+        </div>
+        <div class="bg-white row p-4 d-flex rounded rounded-5">
+          <div class="col-4">
+            <ul class="row list-unstyled">
+              <li class="col-3">
+                <img src="./img/Group 10.png" width="70" alt="" />
+              </li>
+              <li class="col-6 mt-2">
+                <span class="d-inline-block mb-1">Total Students</span>
+                <span id="totalValue" class="fw-bold h4"></span>
+              </li>
+            </ul>
+          </div>
+          <div class="col-4">
+            <ul class="row list-unstyled">
+              <li class="col-3">
+                <img src="./img/2222.png" width="70" alt="" />
+              </li>
+              <li class="col-6 mt-2">
+                <span class="d-inline-block mb-1">Connected</span><br />
+                <span id="ConnectedValue" class="fw-bold h4"></span>
+              </li>
+            </ul>
+          </div>
+          <div class="col-4">
+            <ul class="row list-unstyled">
+              <li class="col-3">
+                <img src="./img/Group 1011.png" width="70" alt="" />
+              </li>
+              <li class="col-6 mt-2">
+                <span class="d-inline-block mb-1">Study now</span> <br />
+                <span id="studyNowValue" class="fw-bold h4"></span>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="w-100 mt-5 bg-white p-4 rounded rounded-5">
+          <div class="d-flex justify-content-between">
+            <p>
+              <span class="h4">All Students</span> <br /><span
+                class="text-success"
+                >Active Students</span
+              >
+            </p>
+            <div class="d-flex align-items-center gap-3">
+              <input
+                id="search"
+                type="text"
+                class="form-control"
+                placeholder="search"
+              />
+              <select name="" id="select">
+                <option value="az">A-Z</option>
+                <option value="age">Age</option>
+                <option value="ager">Age (revers)</option>
+              </select>
+            </div>
+          </div>
+          <table class="table">
+            <thead>
+              <th>Student Name</th>
+              <th>Age</th>
+              <th>Phone Number</th>
+              <th>Email</th>
+              <th>City</th>
+              <th>Status</th>
+            </thead>
+            <tbody id="tbody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <script src="./main.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
